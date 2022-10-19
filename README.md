@@ -5,7 +5,7 @@
 
 - 📄 My resume [https://drive.google.com/file/d/1o8IJ3KoyBE1TExy10HfdWDhLE6JdBdQ0/view?usp=sharing](https://drive.google.com/file/d/1o8IJ3KoyBE1TExy10HfdWDhLE6JdBdQ0/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
