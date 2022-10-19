@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **ahmedlogn.ahmed@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1o8IJ3KoyBE1TExy10HfdWDhLE6JdBdQ0/view?usp=sharing](https://drive.google.com/file/d/1o8IJ3KoyBE1TExy10HfdWDhLE6JdBdQ0/view?usp=sharing)
 
 
 <p align="left">
