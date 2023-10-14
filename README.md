@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 📫 How to reach me **ahmedlogn.ahmed@gmail.com**
+- 📫 How to reach me **ahmed.o.ismail01@gmail.com**
+- Linkedin : **https://www.linkedin.com/in/ahmed-osama-ismail/**
 
 
 
